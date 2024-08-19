@@ -1,4 +1,4 @@
-module id/dpbg/auth-core
+module github.com/daripadabengong/auth-core
 
 go 1.23.0
 
