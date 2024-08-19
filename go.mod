@@ -7,9 +7,8 @@ require (
 	github.com/lestrrat-go/jwx v1.2.30
 )
 
-require github.com/gorilla/mux v1.8.1 // indirect
-
 require (
+	github.com/daripadabengong/api-utils v0.1.1
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.3.0 // indirect
 	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible
